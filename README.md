@@ -1,5 +1,5 @@
 # Dwarf_Fortress_Simulation
-A Simulation game developed by the professor Ricardo Tachiquin <a href=https://github.com/rtachiquing> (@rtachiquing) </a> , I added some new features to the game like a  Social net that matches the characters depending of some factors like:
+A Simulation game developed in conjunction with the professor Ricardo Tachiquin <a href=https://github.com/rtachiquing> (@rtachiquing) </a> , I added some new features to the game like a  Social net that matches the characters depending of some factors like:
 - Social Status
 - Job Type
 - Gender
